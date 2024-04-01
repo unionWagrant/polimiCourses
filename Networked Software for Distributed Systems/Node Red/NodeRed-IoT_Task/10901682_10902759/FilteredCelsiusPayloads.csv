@@ -1,0 +1,54 @@
+timestamp,id,payload
+1682528385094,4127,"{""unit"": ""C"", ""long"": 67, ""description"": ""Room Temperature"", ""lat"": 96, ""range"": [6, 45], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528405176,2909,"{""unit"": ""C"", ""long"": 42, ""description"": ""Room Temperature"", ""lat"": 47, ""range"": [5, 50], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528425156,6442,"{""description"": ""Room Temperature"", ""unit"": ""C"", ""type"": ""temperature"", ""range"": [4, 53], ""lat"": 85, ""long"": 100}"
+
+timestamp,id,payload
+1682528460309,4163,"{""unit"": ""C"", ""long"": 59, ""description"": ""Room Temperature"", ""lat"": 44, ""range"": [5, 37], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528510328,3828,"{""range"": [1, 50], ""description"": ""Room Temperature"", ""type"": ""temperature"", ""unit"": ""C"", ""lat"": 95, ""long"": 89}"
+
+timestamp,id,payload
+1682528520309,5344,"{""unit"": ""C"", ""long"": 83, ""description"": ""Room Temperature"", ""lat"": 79, ""range"": [1, 44], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528535327,3545,"{""unit"": ""C"", ""long"": 98, ""description"": ""Room Temperature"", ""lat"": 42, ""range"": [8, 36], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528605403,2180,"{""unit"": ""C"", ""long"": 62, ""description"": ""Room Temperature"", ""lat"": 71, ""range"": [0, 37], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528610420,1093,"{""unit"": ""C"", ""long"": 82, ""description"": ""Room Temperature"", ""lat"": 98, ""range"": [2, 33], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528621182,2996,"{""unit"": ""C"", ""long"": 52, ""description"": ""Room Temperature"", ""lat"": 83, ""range"": [10, 38], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528630447,5714,"{""unit"": ""C"", ""long"": 67, ""description"": ""Room Temperature"", ""lat"": 99, ""range"": [7, 39], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528705588,3658,"{""unit"": ""C"", ""long"": 58, ""description"": ""Room Temperature"", ""lat"": 41, ""range"": [10, 45], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528720580,2634,"{""unit"": ""C"", ""long"": 49, ""description"": ""Room Temperature"", ""lat"": 40, ""range"": [3, 51], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528725617,1996,"{""unit"": ""C"", ""long"": 99, ""description"": ""Room Temperature"", ""lat"": 65, ""range"": [2, 58], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528770662,3985,"{""unit"": ""C"", ""long"": 79, ""description"": ""Room Temperature"", ""lat"": 67, ""range"": [9, 59], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528845766,4796,"{""unit"": ""C"", ""long"": 100, ""description"": ""Room Temperature"", ""lat"": 45, ""range"": [5, 59], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528850772,953,"{""unit"": ""C"", ""long"": 75, ""description"": ""Room Temperature"", ""lat"": 62, ""range"": [0, 33], ""type"": ""temperature""}"
+
+timestamp,id,payload
+1682528860807,548,"{""unit"": ""C"", ""long"": 57, ""description"": ""Room Temperature"", ""lat"": 51, ""range"": [3, 46], ""type"": ""temperature""}"
+
