@@ -29,6 +29,4 @@ File Log Trigger & Log Function & "/data/WeatherLog.txt": Which triggers every m
 ## Bot URL 
 Telegram Bot URL: https://t.me/NSDSVerySmartBot
 ##Bot Token
-6749579494:AAF74gmYsoebdQ60tIV1mzoZfKGf5KxWf7M
 ##OpenWeather API key
-c80d5546f3ee4243b9e487d3fc76a4b1
